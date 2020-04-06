@@ -16,7 +16,7 @@ alpine based containers released by NginX on Docker Hub.
 
 ### Instructions
 
-The instructions to setup this solution are as they appear in outline presented
+The instructions to setup this solution are as they appear in the outline presented
 in the challenge description. Those commands should be run from the root of this
 project.
 
