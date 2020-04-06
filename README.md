@@ -2,6 +2,7 @@
 ## A Palo Alto Tech Challenge Experience
 
 **Author: Thomas Linkin**
+
 **Date: 4-6-2020**
 
 ### Overview
